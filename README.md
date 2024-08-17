@@ -8,10 +8,12 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
    
 # Installation & Setup:
-Clone the repository: git clone https://github.com/yourusername/password-generator-app.git
-Navigate to the project directory: cd password-generator-app
-Install the dependencies: npm install
-Run the app on your device or emulator: npx react-native run-android or npx react-native run-ios
+1. Clone the repository: git clone https://github.com/yourusername/password-generator-app.git
+2. Navigate to the project directory: cd password-generator-app
+3. Install the dependencies: npm install
+4. Run the app on your device or emulator: npx react-native run-android or npx react-native run-ios
+
+   
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
