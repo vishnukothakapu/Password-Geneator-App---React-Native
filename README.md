@@ -1,5 +1,17 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+
+# Technologies Used:
+1. React Native: For building the cross-platform mobile app.
+2. Formik & Yup: For handling form state and validation.
+3. BouncyCheckbox: A customizable checkbox component used for selecting password criteria.
+
+   
+# Installation & Setup:
+Clone the repository: git clone https://github.com/yourusername/password-generator-app.git
+Navigate to the project directory: cd password-generator-app
+Install the dependencies: npm install
+Run the app on your device or emulator: npx react-native run-android or npx react-native run-ios
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
